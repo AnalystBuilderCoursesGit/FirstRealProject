@@ -6,5 +6,5 @@ df.head()
 
 df.describe()
 
-# Let's see what the average value is for everyone
-df["value"].mean()
+# Let's see what the max value is for everyone
+df["value"].max()
